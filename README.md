@@ -7,7 +7,7 @@ QNAP TS-869 Pro
 Raspberry Pi 3 (for hosting Jellyfin and TaleScale) 
 
 **Current progress:** 
- NAS - Setup 
- Running host on a Raspberry Pi 
- Currently setting up an old computer with Linux (deciding the Distro)
+"NAS - Setup 
+Running host on a Raspberry Pi 
+Currently setting up an old computer with Linux (deciding the Distro)"
 
